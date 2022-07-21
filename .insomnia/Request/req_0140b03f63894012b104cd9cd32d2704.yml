@@ -1,0 +1,21 @@
+_id: req_0140b03f63894012b104cd9cd32d2704
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1657629054365
+created: 1657629049994
+url: http://192.168.1.12:8001/routes
+name: Get routes
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657622133515
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

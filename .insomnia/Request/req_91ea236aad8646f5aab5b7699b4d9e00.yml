@@ -1,0 +1,23 @@
+_id: req_91ea236aad8646f5aab5b7699b4d9e00
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1658148161059
+created: 1657645055279
+url: http://192.168.1.12:8001/services/82fc78d6-249f-4b5d-b388-cc538b2f9590
+name: Delete Route 192.168.1.12
+description: ""
+method: DELETE
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657622365463.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

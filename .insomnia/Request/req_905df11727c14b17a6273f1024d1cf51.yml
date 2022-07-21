@@ -1,0 +1,27 @@
+_id: req_905df11727c14b17a6273f1024d1cf51
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1658419524343
+created: 1657623988752
+url: http://mockbin.org/bin/505273df-ecdc-4a2c-a869-1e9679cb692e
+name: Create Service Mockbin
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: name=example.com&url=mockbin.com
+parameters: []
+headers:
+  - id: pair_5cbd623d7f7e472480356a2920803761
+    name: Content-Type
+    value: application/x-www-form-urlencoded
+    description: ""
+authentication: {}
+metaSortKey: -1657623988752
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: true
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

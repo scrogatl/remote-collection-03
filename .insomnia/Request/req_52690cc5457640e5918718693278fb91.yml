@@ -1,0 +1,21 @@
+_id: req_52690cc5457640e5918718693278fb91
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1657628886068
+created: 1657622133565
+url: http://192.168.1.12:8001/services
+name: Get Services
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657622133565
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

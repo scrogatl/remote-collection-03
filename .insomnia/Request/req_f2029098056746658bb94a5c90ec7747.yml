@@ -1,0 +1,21 @@
+_id: req_f2029098056746658bb94a5c90ec7747
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1658148675509
+created: 1658148670947
+url: http://192.168.1.12:8001/upstreams
+name: Get Upstreams
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657622133490
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

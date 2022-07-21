@@ -1,0 +1,31 @@
+_id: req_cbb6a471d9264aa9a32e2324816a0985
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1658409906691
+created: 1658147222509
+url: http://192.168.1.12:8000
+name: Send to Hello World
+description: ""
+method: GET
+body:
+  mimeType: text/plain
+  text: Hello
+parameters: []
+headers:
+  - id: pair_96aadb0e084b4d3f9d3b8df55cf2b532
+    name: host
+    value: hello.com
+    description: ""
+  - id: pair_e827d5e957c240de9249c60892ee6131
+    name: Content-Type
+    value: text/plain
+    description: ""
+authentication: {}
+metaSortKey: -1657622133415
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
