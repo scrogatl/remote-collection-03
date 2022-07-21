@@ -1,0 +1,21 @@
+_id: req_fb9e2fad7880457d98d83463ccc7000a
+type: Request
+parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
+modified: 1658420956284
+created: 1658420941593
+url: http://a95f66dd59adc492c914818fa7b3be7d-0cbc74ba7e794a52.elb.us-east-2.amazonaws.com/services
+name: Get Services AWS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657622133540
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
