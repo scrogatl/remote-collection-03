@@ -1,7 +1,7 @@
 _id: req_354dab2505bb4efaa7b7b6b5a16de8a4
 type: Request
 parentId: wrk_3ffe450eb87d4e3b9993a521744e14e2
-modified: 1658419524930
+modified: 1658492378892
 created: 1657626792803
 url: http://192.168.1.12:8001/services
 name: Creat Service 192.168.1.12
@@ -9,7 +9,7 @@ description: ""
 method: POST
 body:
   mimeType: ""
-  text: name=example-service-3&url=http://192.168.1.132:5001/
+  text: name=example-service-3&url=http://192.168.1.132:5000/
 parameters: []
 headers:
   - id: pair_4c86c30bc84d4a3781f425f3aa27e57b
